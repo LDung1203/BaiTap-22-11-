@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#content {
+    width: 500px;
+    text-align: center;
+    margin: 100px auto 0 auto;
+    border: 3px solid #000;
+}
+h2 {
+    font-size: 33px;
+    padding-top: 10px;
+}
+
+button {
+    border-radius: 0px;
+    border: 1px solid;
+    padding: 5px 50px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+table {
+    border: 1px solid #000;
+    margin: 20px auto;
+    width: 450px;
+}
+table th {
+    border: 1px solid #000;
+}

@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.content {
+    text-align: justify;
+}
+.img {
+    text-align: center;
+    padding-top: 12px;
+}
+img {
+    text-align: center;
+    width: 135px;
+}
+
+.khung {
+    display: inline-block;
+    float: right;
+    border: 1px solid;
+    margin: 20px;
+    width: 175px;
+    height: 250px;
+}
+.khung img {
+
+}
+h2 {
+    font-size: 15px;
+    text-align: center;
+}
